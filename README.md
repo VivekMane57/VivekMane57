@@ -1,16 +1,130 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vivek 👋</h1>
 
-<!--
-**VivekMane57/VivekMane57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">AI/ML Engineer · Full-Stack SaaS Builder · Final Year CS Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+LLM-Powered+Systems;Co-founder+%40+GST-AUDIT-AI+and+RxDigit;OCR+%2B+NLP+%2B+Retrieval+Systems;Python+%7C+TypeScript+%7C+FastAPI+%7C+LangChain" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/VivekMane57">
+    <img src="https://img.shields.io/github/followers/VivekMane57?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 Final Year B.Tech CSE student
+- 🤖 AI/ML Engineer — RAG pipelines, LangChain, HuggingFace, FastAPI
+- 🚀 Co-founder of **[RxDigit](https://github.com/VivekMane57/RxDigit)** (AI-powered healthcare platform) and **[GST-AUDIT-AI](https://github.com/VivekMane57/gst-audit-ai)** (B2B GST compliance SaaS for CAs)
+- 💼 Built production AI systems at **AadiSwan** and **IIT Bombay**
+- 🔭 Currently working on RAG pipelines, OCR+NLP systems, and multi-sided SaaS products
+- ⚡ Fun fact: I ship full products end-to-end — from model to UI to deployment
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🩺 [RxDigit](https://github.com/VivekMane57/RxDigit)**
+AI-powered prescription & health wallet system — OCR, NLP, real-time healthcare dashboards, digital health wallet, and secure prescription management connecting patients, doctors, and pharmacies.
+`Python` `Node.js` `React Native` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ [fraudshield](https://github.com/VivekMane57/fraudshield)**
+Real-time fraud detection dashboard streaming live alerts via Server-Sent Events, backed by FastAPI and PostgreSQL with JWT-secured access.
+`FastAPI` `PostgreSQL` `React SSE` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎤 [Virtual-Hire](https://github.com/VivekMane57/Virtual-Hire)**
+AI-powered interview platform with real-time facial emotion detection using CNN + OpenCV + MediaPipe, integrated with LLM APIs for adaptive interview flows.
+`TensorFlow` `React` `Node.js` `LLM APIs`
+
+</td>
+<td width="50%" valign="top">
+
+**📊 [gst-audit-ai](https://github.com/VivekMane57/gst-audit-ai)**
+B2B GST compliance SaaS tool built for Indian Chartered Accountants — automated rule-based auditing and reconciliation.
+`Python`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/VivekMane57/finsight-ai"><b>finsight-ai →</b></a> Python-based financial insights project — see repo for details.
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VivekMane57&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMane57&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekMane57&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekMane57&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:vivekmane.9731@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https:[//linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vivek-mane-6604a71a0/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VivekMane57&color=2563EB&style=flat" alt="Profile views" />
+</p>
+
+<p align="center"><i>Building AI-powered products, one commit at a time 🚀</i></p>
